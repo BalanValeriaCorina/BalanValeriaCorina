@@ -16,4 +16,6 @@
 -Cisco Introduction to Cybersecurity https://www.youracclaim.com/badges/24affa95-6f92-4b1e-8930-24f8fb87d4a3/public_url
 
 <br />
+<br />
+<br />
 <img src="https://github-readme-stats.vercel.app/api?username=BalanValeriaCorina&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
