@@ -12,5 +12,8 @@
 - 😄 Pronouns: I do not care about pronouns,call me what you like
 - ⚡ Fun fact: I love 80's music and I don't like those annoying sounds that people are making with their mouth because I have misophonia,unfortunatelly 
 <br />
-###Certifications:
+<h4>Certifications:</h4>
 -Cisco Introduction to Cybersecurity https://www.youracclaim.com/badges/24affa95-6f92-4b1e-8930-24f8fb87d4a3/public_url
+
+
+<img src="https://github-readme-stats.vercel.app/api?username=BalanValeriaCorina&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
