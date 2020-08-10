@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Android personal project
-- 🌱 I’m currently learning Web Development and Adroid
+- 🌱 I’m currently learning Web Development and Android
 - 👯 I’m looking to collaborate on creating content
 - 🤔 I’m looking for help with JavaScript
 - 💬 Ask me about C# and Java<!--- 📫 How to reach me: ...-->
