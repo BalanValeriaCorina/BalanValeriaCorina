@@ -12,7 +12,7 @@
 <br />
 <h4>Certifications:</h4>
 -Cisco Introduction to Cybersecurity https://www.youracclaim.com/badges/24affa95-6f92-4b1e-8930-24f8fb87d4a3/public_url
--Google Android Fundamentals
+<br />-Google Android Fundamentals
 
 <br />
 <br />
